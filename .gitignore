@@ -1,0 +1,8 @@
+.vscode
+server/.vscode
+web/.vscode
+server/node_modules
+server/package-lock.json
+web/node_modules
+web/package-lock.json
+
